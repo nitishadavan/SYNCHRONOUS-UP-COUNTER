@@ -28,19 +28,32 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **Procedure**
 
-/* write all the steps invloved */
+1.Type the program in Quartus software.
+2.Compile and run the program.
+3.Generate the RTL schematic and save the logic diagram.
+4.Create nodes for inputs and outputs to generate the timing diagram.
+5.For different input combinations generate the timing diagram.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
+![Screenshot 2024-12-23 114212](https://github.com/user-attachments/assets/3a0939c2-fbcd-49c2-9c58-a7234cbf657a)
 
-Developed by: RegisterNumber:
+
+Developed by:D.Nitish Adavan
+
+RegisterNumber:24901049
 */
 
 **RTL LOGIC UP COUNTER**
 
+![Screenshot 2024-12-23 114224](https://github.com/user-attachments/assets/19472d2a-8a8c-4537-811a-2efa07045575)
+
+
 **TIMING DIAGRAM FOR IP COUNTER**
 
-**TRUTH TABLE**
+![Screenshot 2024-12-23 114237](https://github.com/user-attachments/assets/62fb86e8-c28a-40a1-b602-df6a8ff4af7c)
+
 
 **RESULTS**
+Thus, the JK Flip-Flop is designed, and its functionality is validated using the
+truth table and timing diagrams.
